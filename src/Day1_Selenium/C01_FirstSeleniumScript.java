@@ -1,9 +1,9 @@
-package Day_1Selenium;
+package Day1_Selenium;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class FirstSeleniumScript {
+public class C01_FirstSeleniumScript {
     /*
     2. Create main method.
 3. System.setProperty("","");System.setProperty("webdriver.chrome.driver","/Users/Garry/Documents/seleniumdependencies/drivers/chromedriver");
